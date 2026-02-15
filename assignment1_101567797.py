@@ -1,10 +1,10 @@
 """
-Author: <YOUR REAL FIRST AND LAST NAME>
+Author: <Akinwunmi Eludoyin>
 Assignment: #1
 """
 
 # Step b: Create 4 variables
-
+gameStopId = 12345
 # Step c: Create a dictionary named workout_stats
 
 # Step d: Calculate total workout minutes using a loop and add to dictionary
